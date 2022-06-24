@@ -1,0 +1,15 @@
+/home/nikolai/RiderProjects/one/one/bin/Debug/net6.0/one
+/home/nikolai/RiderProjects/one/one/bin/Debug/net6.0/one.deps.json
+/home/nikolai/RiderProjects/one/one/bin/Debug/net6.0/one.runtimeconfig.json
+/home/nikolai/RiderProjects/one/one/bin/Debug/net6.0/one.dll
+/home/nikolai/RiderProjects/one/one/bin/Debug/net6.0/ref/one.dll
+/home/nikolai/RiderProjects/one/one/bin/Debug/net6.0/one.pdb
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.csproj.AssemblyReference.cache
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.AssemblyInfoInputs.cache
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.AssemblyInfo.cs
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.csproj.CoreCompileInputs.cache
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.dll
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/ref/one.dll
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.pdb
+/home/nikolai/RiderProjects/one/one/obj/Debug/net6.0/one.genruntimeconfig.cache
